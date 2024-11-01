@@ -1,3 +1,4 @@
-### `npm i`
-### `npm start`
+### `To start`
+- npm i
+- npm start
 
